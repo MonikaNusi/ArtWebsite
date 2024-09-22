@@ -1,7 +1,7 @@
 # MollyArt
 ***
 
-(By Mirjana Cale)
+(By Monika Nusi)
 ***
 
 <img src="readme-images/picture1.png">
